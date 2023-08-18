@@ -2,22 +2,25 @@
 ### The project provides an UI to Create , Read, Update and Delete the data regarding the Fee of students in any institution. The project is the implementation of different concepts used of Java
 
 ## Requirements
-1. node
-2. npm
+1. java version 1.8
+2. mysql-connector-java-8.0.17
 
 ## Installation
 ### Linux
 ```
-sudo apt-get install nodejs npm
+sudo apt-get update
+sudo apt-get install openjdk-8-jdk
+sudo apt install mysql-server
+
 ```
-### Windows
-1. Download node and npm
+Edit JDBC path as per your system
+[https://ubuntu.com/server/docs/databases-mysql](https://ubuntu.com/server/docs/databases-mysql)
+[https://docs.datastax.com/en/jdk-install/doc/jdk-install/installOpenJdkDeb.html](https://docs.datastax.com/en/jdk-install/doc/jdk-install/installOpenJdkDeb.html)
 
 ### Run Project
 ```
-git clone https://github.com/vinay-mane/CobbinePDF-backend-interface
-cd CobbinePDF-backend-interface
-npm install
-npm start
+cd src
+javac Open.java
+java Open
 ```
-default run on port 80 [localhost](http://localhost/), change port in server.js
+
