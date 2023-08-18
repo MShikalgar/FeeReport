@@ -13,9 +13,9 @@ sudo apt-get install openjdk-8-jdk
 sudo apt install mysql-server
 
 ```
-Edit JDBC path as per your system
-[https://ubuntu.com/server/docs/databases-mysql](https://ubuntu.com/server/docs/databases-mysql)
-[https://docs.datastax.com/en/jdk-install/doc/jdk-install/installOpenJdkDeb.html](https://docs.datastax.com/en/jdk-install/doc/jdk-install/installOpenJdkDeb.html)
+####Edit JDBC path as per your system
+####[https://ubuntu.com/server/docs/databases-mysql](https://ubuntu.com/server/docs/databases-mysql)
+####[https://docs.datastax.com/en/jdk-install/doc/jdk-install/installOpenJdkDeb.html](https://docs.datastax.com/en/jdk-install/doc/jdk-install/installOpenJdkDeb.html)
 
 ### Run Project
 ```
