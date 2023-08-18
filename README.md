@@ -1,7 +1,6 @@
 # FeeReport in Java
-The FeeReport in Java project provides a user interface for creating, reading, updating, and deleting student fee data within any educational institution. This project serves as an implementation of various Core Java concepts.
 ## Description
-The project offers an intuitive user interface for managing student fee records, making it easy to perform CRUD (Create, Read, Update, Delete) operations on fee-related data. It demonstrates the application of essential Core Java concepts and principles.
+The project offers an intuitive user interface for managing student fee records, making it easy to perform CRUD (Create, Read, Update, Delete) operations on fee-related data. It demonstrates the application of essential Core Java concepts and principles. The system comprises three distinct modules: one for Accountant, another for Admin, and the third for Students.
 ## Requirements
 1. java version 1.8
 2. mysql-connector-java-8.0.17
